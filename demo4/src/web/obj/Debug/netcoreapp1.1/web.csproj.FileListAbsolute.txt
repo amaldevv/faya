@@ -1,0 +1,8 @@
+/home/amaldevv/amal/faya/demo4/src/web/bin/Debug/netcoreapp1.1/web.deps.json
+/home/amaldevv/amal/faya/demo4/src/web/bin/Debug/netcoreapp1.1/web.runtimeconfig.json
+/home/amaldevv/amal/faya/demo4/src/web/bin/Debug/netcoreapp1.1/web.runtimeconfig.dev.json
+/home/amaldevv/amal/faya/demo4/src/web/bin/Debug/netcoreapp1.1/web.dll
+/home/amaldevv/amal/faya/demo4/src/web/bin/Debug/netcoreapp1.1/web.pdb
+/home/amaldevv/amal/faya/demo4/src/web/obj/Debug/netcoreapp1.1/web.AssemblyInfo.cs
+/home/amaldevv/amal/faya/demo4/src/web/obj/Debug/netcoreapp1.1/web.dll
+/home/amaldevv/amal/faya/demo4/src/web/obj/Debug/netcoreapp1.1/web.pdb
