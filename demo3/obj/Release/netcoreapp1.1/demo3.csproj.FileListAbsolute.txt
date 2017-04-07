@@ -1,8 +1,0 @@
-/home/amaldevv/amal/faya/demo3/bin/Release/netcoreapp1.1/demo3.deps.json
-/home/amaldevv/amal/faya/demo3/bin/Release/netcoreapp1.1/demo3.runtimeconfig.json
-/home/amaldevv/amal/faya/demo3/bin/Release/netcoreapp1.1/demo3.runtimeconfig.dev.json
-/home/amaldevv/amal/faya/demo3/bin/Release/netcoreapp1.1/demo3.dll
-/home/amaldevv/amal/faya/demo3/bin/Release/netcoreapp1.1/demo3.pdb
-/home/amaldevv/amal/faya/demo3/obj/Release/netcoreapp1.1/demo3.AssemblyInfo.cs
-/home/amaldevv/amal/faya/demo3/obj/Release/netcoreapp1.1/demo3.dll
-/home/amaldevv/amal/faya/demo3/obj/Release/netcoreapp1.1/demo3.pdb
