@@ -1,14 +1,11 @@
-FROM microsoft/dotnet
+FROM microsoft/dotnet:1.1.1-sdk
 
 
-COPY . /app
+COPY ./bin/Debug/netcoreapp1.1 /app
 
 WORKDIR /app
 
-ENV ASPNETCORE_URLS="http://*:5001"
+RUN dir
 
-EXPOSE 5001
 
-RUN ["dotnet", "restore"]
-
-ENTRYPOINT ["dotnet", "run"]
+CMD dotnet demo1.dll
