@@ -1,0 +1,5 @@
+/home/amaldevv/amal/faya/calicut/demo4/src/service
+--output-path=obj/Release/netcoreapp2.0/
+--application-name=service
+--content-root=/home/amaldevv/amal/faya/calicut/demo4/src/service
+--file=

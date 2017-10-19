@@ -1,0 +1,10 @@
+/home/amaldevv/amal/faya/calicut/demo3/bin/Debug/netcoreapp2.0/demo3.deps.json
+/home/amaldevv/amal/faya/calicut/demo3/bin/Debug/netcoreapp2.0/demo3.runtimeconfig.json
+/home/amaldevv/amal/faya/calicut/demo3/bin/Debug/netcoreapp2.0/demo3.runtimeconfig.dev.json
+/home/amaldevv/amal/faya/calicut/demo3/bin/Debug/netcoreapp2.0/demo3.dll
+/home/amaldevv/amal/faya/calicut/demo3/bin/Debug/netcoreapp2.0/demo3.pdb
+/home/amaldevv/amal/faya/calicut/demo3/obj/Debug/netcoreapp2.0/demo3.csproj.CoreCompileInputs.cache
+/home/amaldevv/amal/faya/calicut/demo3/obj/Debug/netcoreapp2.0/demo3.AssemblyInfoInputs.cache
+/home/amaldevv/amal/faya/calicut/demo3/obj/Debug/netcoreapp2.0/demo3.AssemblyInfo.cs
+/home/amaldevv/amal/faya/calicut/demo3/obj/Debug/netcoreapp2.0/demo3.dll
+/home/amaldevv/amal/faya/calicut/demo3/obj/Debug/netcoreapp2.0/demo3.pdb
